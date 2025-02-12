@@ -2,7 +2,7 @@
 <h2>Açıklama</h2>
 <p>08.02.2025 tarihinde Biruni Üniversitesi Bilişim Kafe Sohbetleri kapsamında, yapay zekaların basit yazılım projelerindeki performanslarını değerlendirmek için 8 yapay zeka modeli tarafından aynı prompt girilerek oluşturulmuş kodları içeren bir dökümandır. </p>
 
-<a href="https://youtu.be/XYtM8_m6fbM">Video (YouTube)</a>
+<a href="https://youtu.be/XYtM8_m6fbM">Video (YouTube)</a><br>
 <a href="https://github.com/Atamany/YapayZekaTestleri">Kaynak Kodları (GitHub)</a>
 
 <h2>Girilen Prompt: </h2>
